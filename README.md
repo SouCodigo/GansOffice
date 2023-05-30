@@ -1,9 +1,9 @@
-# Projeto Colabora
+# GansOffice
 
 Projeto em andamento
 
 > GansOffice |
-Plataforma de conexão entre voluntários e pessoas com perda total ou parcial da visão, para acesso a ambientes sem acessibilidade, com apoio em descrição de imagens e uso de plataformas.
+GansOffice é um jogo que acompanha o Gansel, que é um Ganso que dormiu no trabalho e agora precisa pensar em coisas não tão obvias para escapar do escritorio.
 
 ## Equipe de Criação (Women Game Jam 2022)
 
