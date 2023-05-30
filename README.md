@@ -2,22 +2,23 @@
 
 Projeto em andamento
 
-> GansOffice |
+> GansOffice
+
 GansOffice é um jogo que acompanha o Gansel, que é um Ganso que dormiu no trabalho e agora precisa pensar em coisas não tão obvias para escapar do escritorio.
 
 ## Equipe de Criação (Women Game Jam 2022)
 
-> Alana Freitas - Game Designer 
+> Alana Freitas| Game Designer 
 
-> Ana Carolina - Designer de Narrativas
+> Ana Carolina| Designer de Narrativas
 
-> Ana Marcello - Desenvolvedora
+> Ana Marcello| Desenvolvedora
 
-> Beatriz Karoline - Designer de Narrativas 
+> Beatriz Karoline| Designer de Narrativas 
 
-> Diana Imaizumi - Artista e animadora 2D
+> Diana Imaizumi| Artista e animadora 2D
 
-> Gabrielle Bocal - Artista e animadora 2D
+> Gabrielle Bocal| Artista e animadora 2D
 
 ## Em Densevolvimento atualmente por
 
